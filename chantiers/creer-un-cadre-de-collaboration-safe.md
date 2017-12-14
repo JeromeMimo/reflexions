@@ -5,9 +5,10 @@ Depuis 2015, j'évolue au sein de plusieurs collectifs. 2 raisons m'ont poussée
 1 - Lorsque le contexte relationnel est "Safe" je me sens mieux donc je collabore mieux donc je créé et réfléchi mieux.  
 2 - J'ai fait "*tout ce qu'il ne faut pas faire*" et j'ai pris la mesure de l'impact négatif que ça a sur moi, sur l'autre, le collectif et le projet.
 
+Du coup, j’ai décidé d’observer et questionner mes acolytes pour déterminer les “trucs” qui empêchent ou encouragent la création d'un contexte relationnel Safe… Retour sur cette exploration (non exhaustif !)
 
-J’évolue avec de nombreux collectifs. J’ai compris que lorsque le contexte relationnel est “safe” (climat de confiance, de tranquillité et d’harmonie dans lequel je me sens "soignée" et en sécurité affective et émotionnelle) je me sens beaucoup mieux. Je n'ai pas besoin d'être sur "mes gardes" (Et si l'autre me juge ? Et s'il.elle se moque de moi ? Et si je me trompe ? Et si l'autre me demande de me justifier ?)Du coup, j’ai décidé d’observer et questionner mes acolytes pour déterminer les “trucs” qui empêchent de créer un contexte relationnel Safe… Retour sur mon exploration (non exhaustif !)
-
+## Défintion
+Pour moi, un contexte "Safe" incarne un climat de confiance, de tranquillité et d’harmonie dans lequel je me sens "soignée" et en sécurité affective et émotionnelle. C'est un contexte dans lequel je n'ai pas besoin d'être sur "mes gardes". C'est à dire que je suis exemptée de peurs telle que "Et si l'autre me juge ? Et s'il.elle se moque de moi ? Et si je me trompe ? Et si l'autre me demande de me justifier ?". 
 
 ## 1) Quelques trucs qui participent à la création d’un cadre Safe 
 
@@ -68,6 +69,11 @@ Peut-être dans ce cas, j’aurais plutôt tendance à proposer une deuxième fo
 - Parler de moi et rebondir sur ce que la personne est en train de dire pour parler de moi
 
 Au lieu de ça, je tente d'adopter un posture d'écoute empathique, qui (assez grossièrement) consiste à se taire pour écouter "vraiment" ou tout au plus reformuler ce que l'autre dit pour lui "faire écho". Dans cette posture je n'écoute pas répondre mais pour comprendre et je me rapproche du [dialogue plus que de la discussion](http://www.thomasw.fr/posts/dialogue.html)...
+
+# "Oh lala tu compliques tout !"
+Voilà un retour récurrent quand je parle de cette exploration. Nombreu.se.s.x sont celles et ceux qui jugent cette posture compliquée à mettre en oeuvre, liberticide ou non-authentique. Mais pour moi, il s'agit d'un apprentissage. Si je prends l'exemple de l'éducation. Il y a moins de 100 ans, si un enfants désobissait, il prenait une tarte et on l'enfermait dans sa chambre. C'était simple, efficace et pas trop contraignant pour les parents. Mais quelles conséquences ? Aujourd'hui, cette posture éducative est bien moins répandue. Les parents, consacrent du temps au process pour apprendre à faire mieux, à prendre soin de leur relation avec leur enfant. 
+
+Pour moi l'enjeux de créer un cadre de collaboration Safe est le même : réinterroger nos pratiques et prendre le temps de s'ajuster, d'observer et de prendre soin comme n'importe quel apprentissage, va demander du temps et de l'énergie et en même temps, comme pour le châtiment physique de nos enfants, on constate bien que continuer tel qu'on nous a appris à fonctionner en groupe n'est plus vraiment à l'ordre du jour...
 
 
 *Un grand "Merci !" à toutes les personnes qui (de près où de loin) m'ont partagé leurs billes (et/ou m'ont offert de magnifiques feed-back) ce qui a largement contribué atayer ma pensée et pondre ces quelques lignes : Isabelle Desplat, Stéphane Langlois, Maïtané Lenoir, Antoine Vernois, Aude Lorriaux, Fabrice Aimetti, Thomas Wolf, Ash Dryden, David de Bruant, Erick Gardin, Magali Toulouse, Lucas Fristchi, la Thym de SudWeb 2017, Brasiers et Cerisiers...*
