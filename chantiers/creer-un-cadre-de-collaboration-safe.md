@@ -1,8 +1,8 @@
 # Trucs et astuces pour créer un cadre de collaboration Safe
 
 ## Contexte de l'article 
-Depuis 2015, j'évolue au sein de plusieurs collectifs. 2 raisons m'ont poussée à rédiger cet article : 
-1 - Lorsque le contexte relationnel est "Safe" je me sens mieux donc je collabore mieux donc je créé et réfléchi mieux.
+Depuis 2015, j'évolue au sein de plusieurs collectifs. 2 raisons m'ont poussée à rédiger cet article :   
+1 - Lorsque le contexte relationnel est "Safe" je me sens mieux donc je collabore mieux donc je créé et réfléchi mieux.  
 2 - J'ai fait "*tout ce qu'il ne faut pas faire*" et j'ai pris la mesure de l'impact négatif que ça a sur moi, sur l'autre, le collectif et le projet.
 
 
