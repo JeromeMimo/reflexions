@@ -1,8 +1,32 @@
 # Trucs et astuces pour créer un cadre de collaboration Safe
+
+## Contexte de l'article 
+Depuis 2015, j'évolue au sein de plusieurs collectifs. 2 raisons m'ont poussée à rédiger cet article : 
+1 - Lorsque le contexte relationnel est "Safe" je me sens mieux donc je collabore mieux donc je créé et réfléchi mieux.
+2 - J'ai fait "*tout ce qu'il ne faut pas faire*" et j'ai pris la mesure de l'impact négatif que ça a sur moi, sur l'autre, le collectif et le projet.
+
+
 J’évolue avec de nombreux collectifs. J’ai compris que lorsque le contexte relationnel est “safe” (climat de confiance, de tranquillité et d’harmonie dans lequel je me sens "soignée" et en sécurité affective et émotionnelle) je me sens beaucoup mieux. Je n'ai pas besoin d'être sur "mes gardes" (Et si l'autre me juge ? Et s'il.elle se moque de moi ? Et si je me trompe ? Et si l'autre me demande de me justifier ?)Du coup, j’ai décidé d’observer et questionner mes acolytes pour déterminer les “trucs” qui empêchent de créer un contexte relationnel Safe… Retour sur mon exploration (non exhaustif !)
 
-	
-## 1) Les trucs qui ne participent pas à la création d’un cadre Safe :  
+
+## 1) Quelques trucs qui participent à la création d’un cadre Safe 
+
+**Parler au « Je »** Souvent ça me permet d’éviter un peu les jugements et de ne pas imposer mon point de vue.  
+Par exemple dire “*La pleinière d’hier soir ne nous a servi à rien*.” n’évoque pas la même chose que “*Je m’interroge sur la pertinence de la pleinière d’hier soir car j’ai l’impression qu’elle ne m’a rien apporté*.”. La première version implique l’ensemble des autres participants, mais qu’est-ce qui dit qu’elle n’a rien apporté à jacqueline ou Loric ?  
+Aussi, se “contraindre” à parler au “Je” est une belle invitation à prendre ses “responsabilités”. C’est plus impliquant, je suis donc généralement plus précautionneuse : je prends le temps de vérifier ce qui se passe pour moi et je fais plus attention aux mots que j’emploie.
+
+**Utiliser le langage inclusif** 
+
+**Faire preuve de bienveillance et de bien-traitance** La bienveillance est l’intention qui vise le bien et le bonheur de l’autre. La bien-traitance est la mise en action de cette intention. Elles sont complémentaires.  
+Ben ouais… je peux tout à fait avoir une intention bienveillante et être mal-traitante dans mes actes.  
+  
+Exemple : une collègue a travaillé plusieurs jours sur un projet d’animation de groupe. Le jour J, elle paraît épuisée. Touchée par son état de fatigue et portée par mon intention de prendre soin d’elle, je lui propose un truc : “je vois que tu bailles et que tu as des cernes. Tu as l’air fatiguée. Si tu veux je peux gérer l’animation de ce matin comme ça tu te reposes !”. La proposition est sympathique, l’intention est bonne, mais est elle réellement bien-traitante pour ma collègue. Et bien non ! Dans ce cas là, l’option que je propose à ma collègue ne prend pas en considération tout le travail qu’elle à fournit pour animer cette journée. Aussi la stratégie que je propose n’est pas bien-traitante pour elle. Peut-être aurais-je plutôt dû lui demander à quel endroit je pouvais faire quelque chose pour la soulager.
+
+Exemple : la galanterie. L'intention d'un homme "galant" est bienveillante (porter attention, protéger, prendre soin...) et en même temps mal-traitante dans la mesure où elle alimente l'idée que les femmes sont inférieures aux hommes en le mettant dans une position de pouvoir sous couvert d'une attitude protectrice. 
+
+Exemple en image : dans le film "patients" à 9min, la relation patient/soigneur mise en scène illustre bien ma vision du décalage qu'il peut y avoir entre bienveillance et bientraitance.
+
+## 2) Quelques trucs qui ne participent pas à la création d’un cadre Safe :  
 
 ### Dans l’expression :
 
@@ -45,22 +69,5 @@ Peut-être dans ce cas, j’aurais plutôt tendance à proposer une deuxième fo
 
 Au lieu de ça, je tente d'adopter un posture d'écoute empathique, qui (assez grossièrement) consiste à se taire pour écouter "vraiment" ou tout au plus reformuler ce que l'autre dit pour lui "faire écho". Dans cette posture je n'écoute pas répondre mais pour comprendre et je me rapproche du [dialogue plus que de la discussion](http://www.thomasw.fr/posts/dialogue.html)...
 
-
-## 2) Quelques trucs en plus qui participent à la création d’un cadre Safe 
-
-**Parler au « Je »** Souvent ça me permet d’éviter un peu les jugements et de ne pas imposer mon point de vue.  
-Par exemple dire “*La pleinière d’hier soir ne nous a servi à rien*.” n’évoque pas la même chose que “*Je m’interroge sur la pertinence de la pleinière d’hier soir car j’ai l’impression qu’elle ne m’a rien apporté*.”. La première version implique l’ensemble des autres participants, mais qu’est-ce qui dit qu’elle n’a rien apporté à jacqueline ou Loric ?  
-Aussi, se “contraindre” à parler au “Je” est une belle invitation à prendre ses “responsabilités”. C’est plus impliquant, je suis donc généralement plus précautionneuse : je prends le temps de vérifier ce qui se passe pour moi et je fais plus attention aux mots que j’emploie.
-
-**Utiliser le langage inclusif** 
-
-**Faire preuve de bienveillance et de bien-traitance** La bienveillance est l’intention qui vise le bien et le bonheur de l’autre. La bien-traitance est la mise en action de cette intention. Elles sont complémentaires.  
-Ben ouais… je peux tout à fait avoir une intention bienveillante et être mal-traitante dans mes actes.  
-  
-Exemple : une collègue a travaillé plusieurs jours sur un projet d’animation de groupe. Le jour J, elle paraît épuisée. Touchée par son état de fatigue et portée par mon intention de prendre soin d’elle, je lui propose un truc : “je vois que tu bailles et que tu as des cernes. Tu as l’air fatiguée. Si tu veux je peux gérer l’animation de ce matin comme ça tu te reposes !”. La proposition est sympathique, l’intention est bonne, mais est elle réellement bien-traitante pour ma collègue. Et bien non ! Dans ce cas là, l’option que je propose à ma collègue ne prend pas en considération tout le travail qu’elle à fournit pour animer cette journée. Aussi la stratégie que je propose n’est pas bien-traitante pour elle. Peut-être aurais-je plutôt dû lui demander à quel endroit je pouvais faire quelque chose pour la soulager.
-
-Exemple : la galanterie. L'intention d'un homme "galant" est bienveillante (porter attention, protéger, prendre soin...) et en même temps mal-traitante dans la mesure où elle alimente l'idée que les femmes sont inférieures aux hommes en le mettant dans une position de pouvoir sous couvert d'une attitude protectrice. 
-
-Exemple en image : dans le film "patients" à 9min, la relation patient/soigneur mise en scène illustre bien ma vision du décalage qu'il peut y avoir entre bienveillance et bientraitance.
 
 *Un grand "Merci !" à toutes les personnes qui (de près où de loin) m'ont partagé leurs billes (et/ou m'ont offert de magnifiques feed-back) ce qui a largement contribué atayer ma pensée et pondre ces quelques lignes : Isabelle Desplat, Stéphane Langlois, Maïtané Lenoir, Antoine Vernois, Aude Lorriaux, Fabrice Aimetti, Thomas Wolf, Ash Dryden, David de Bruant, Erick Gardin, Magali Toulouse, Lucas Fristchi, la Thym de SudWeb 2017, Brasiers et Cerisiers...*
