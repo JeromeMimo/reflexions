@@ -5,18 +5,18 @@ Depuis 2015, j'évolue au sein de plusieurs collectifs. 2 raisons m'ont poussée
 1 - Lorsque le contexte relationnel est "Safe" je me sens mieux donc je collabore mieux donc je créé et réfléchi mieux.  
 2 - J'ai fait "*tout ce qu'il ne faut pas faire*" et j'ai pris la mesure de l'impact négatif que ça pouvait avoir sur moi, sur l'autre, le collectif et le projet.
 
-Du coup, j’ai décidé d’observer et questionner mes acolytes pour essayer d'identifie les “trucs” qui empêchent ou encouragent la création d'un contexte relationnel Safe… Retour sur cette exploration (non exhaustif !)
+Du coup, j’ai décidé d’observer et questionner mes acolytes pour essayer d'identifier les “trucs” qui empêchent ou encouragent la création d'un contexte relationnel Safe… Retour sur cette exploration (non exhaustif !)
 
 ## Défintion
 Pour moi, un contexte "Safe" incarne un climat de confiance, de tranquillité et d’harmonie dans lequel je me sens "soignée" et en sécurité affective et émotionnelle. C'est un contexte dans lequel je n'ai pas besoin d'être sur "mes gardes". C'est à dire que je suis exemptée de peurs telle que "Et si l'autre me juge ? Et s'il.elle se moque de moi ? Et si je me trompe ? Et si l'autre me demande de me justifier ?". 
 
 ## Ce que ce cadre "Safe" peut apporter concrètement
-L'observation principale que je fait est qu'un contexte "safe" permet de pouvoir entendre et dire plein de choses. Impact que je pense non négligable dans un contexte de collaboration. Les gardes sont baissées, j'ai donc moins peur de dire ce qui me convient ou ne me convient pas. Et ça marche aussi dans l'autre sens ! Encore une fois, n'étant pas "sur mes garde" je suis beaucoup plus apte à recevoir la critiques, les feed-back. Résultats : j'apprends plus ce qui me permet de m'améliorer.
+L'observation principale que je fais est qu'un contexte "safe" permet de pouvoir entendre et dire plein de choses. Impact que je pense non négligable dans un contexte de collaboration. Les gardes sont baissées, j'ai donc moins peur de dire ce qui me convient ou ne me convient pas. Et ça marche aussi dans l'autre sens ! Encore une fois, n'étant pas "sur mes garde" je suis beaucoup plus apte à recevoir la critiques, les feed-back. Résultats : j'apprends plus ce qui me permet de m'améliorer.
 
 ## 1) Quelques trucs qui peuvent participer à la création d’un cadre Safe 
 
 **Parler au « Je »** Souvent ça me permet d’éviter un peu les jugements et de ne pas imposer mon point de vue.  
-Par exemple dire “*La pleinière d’hier soir ne nous a servi à rien*.” n’évoque pas la même chose que “*Je m’interroge sur la pertinence de la pleinière d’hier soir car j’ai l’impression qu’elle ne m’a rien apporté*.”. La première version implique l’ensemble des autres participants, mais qu’est-ce qui dit qu’elle n’a rien apporté à Jacqueline ou Loric ?  
+Par exemple dire “*La plénière d’hier soir ne nous a servi à rien*.” n’évoque pas la même chose que “*Je m’interroge sur la pertinence de la plénière d’hier soir car j’ai l’impression qu’elle ne m’a rien apportée*.”. La première version implique l’ensemble des autres participants, mais qu’est-ce qui dit qu’elle n’a rien apportée à Jacqueline ou Loric ?  
 Aussi, se “contraindre” à parler au “Je” est une belle invitation à prendre ses “responsabilités”. C’est plus impliquant, je suis donc généralement plus précautionneuse : je prends le temps de vérifier ce qui se passe pour moi et je fais plus attention aux mots que j’emploie.
 
 **Utiliser le langage inclusif** 
