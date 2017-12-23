@@ -65,4 +65,13 @@ On tend a être un maximum inclusif et en même temps des fois si ça marche pas
 ## Autres réflexions 
 Vigilence sur l’emploi des terme : donner des définitions
 
+## ressources inspirantes : 
+[https://lereset.org/charte.html]
+[http://www.writethedocs.org/code-of-conduct/]
+[http://agiletour-montpellier.fr/code-de-conduite/]
+[https://www.paris-web.fr/code-de-conduite.php/]
+[https://medium.com/@julia.barbelane/les-codes-de-conduite-dans-nos-events-f100bfed374b]
+
+
+
 
