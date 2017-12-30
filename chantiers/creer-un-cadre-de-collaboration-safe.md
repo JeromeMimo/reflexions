@@ -17,16 +17,16 @@ L'observation principale que je fais est qu'un contexte "safe" permet de pouvoir
 
 **Parler au « Je »** Souvent ça me permet d’éviter un peu les jugements et de ne pas imposer mon point de vue.  
 Par exemple dire “*La discussion d'hier ne nous a servi à rien*.” n’évoque pas la même chose que “*J'ai l'impression que la discussion d'hier ne m'a rien qpportée.”. La première version implique l’ensemble des autres participants, mais qu’est-ce qui dit qu’elle n’a rien apportée à Jacqueline ou Loric ?  
-Aussi, se “contraindre” à parler au “Je” est une belle invitation à prendre ses “responsabilités”. C’est plus impliquant, je suis donc généralement plus précautionneuse : je prends le temps de vérifier ce qui se passe pour moi et je fais plus attention aux mots que j’emploie.
+Aussi, faire l'effort de parler au “Je” est une belle invitation à prendre ses “responsabilités”. C’est plus impliquant, je suis donc généralement plus précautionneuse : je prends le temps de vérifier ce qui se passe pour moi et je fais plus attention aux mots que j’emploie.
 
 **Utiliser le langage inclusif** 
 
-**Faire preuve de bienveillance et de bientraitance** La bienveillance est l’intention qui vise le bien et le bonheur de l’autre. La bientraitance est la mise en action de cette intention. Elles me paraissent complémentaires.  
-Ben ouais… je peux tout à fait avoir une intention bienveillante et être mal-traitante dans mes actes.  
+**Faire preuve de bienveillance et vérifier qu'on est aussi dans la bientraitance** La bienveillance serait l’intention qui vise le bien et le bonheur de l’autre. La bientraitance serait la mise en action de cette intention. Elles me paraissent complémentaires.  
+Ben ouais… je peux tout à fait avoir une intention bienveillante et être maltraitante dans mes actes.  
   
-Exemple : une collègue a travaillé plusieurs jours sur un projet d’animation de groupe. Le jour J, elle paraît épuisée. Touchée par son état de fatigue et portée par mon intention de prendre soin d’elle, je lui propose un truc : “je vois que tu bailles et que tu as des cernes. Tu as l’air fatiguée. Si tu veux je peux gérer l’animation de ce matin comme ça tu te reposes !”. La proposition est sympathique, l’intention est bonne, mais est elle réellement bien-traitante pour ma collègue ? Et bien non ! Dans ce cas là, l’option que je propose à ma collègue ne prend pas en considération tout le travail qu’elle a fournit pour animer cette journée. Aussi la stratégie que je propose n’est pas bientraitante pour elle. Peut-être aurais-je plutôt dû lui demander à quel endroit je pouvais faire quelque chose pour la soulager.
+Exemple : une collègue a travaillé plusieurs jours sur un projet d’animation de groupe. Le jour J, elle paraît épuisée. Touchée par son état de fatigue et portée par mon intention de prendre soin d’elle, je lui propose un truc : “*Je vois que tu bailles et que tu as des cernes. Tu as l’air fatiguée. Si tu veux je peux gérer l’animation de ce matin comme ça tu te reposes !*”. La proposition est sympathique, l’intention est bonne, mais est elle réellement bien-traitante pour ma collègue ? Et bien non ! Dans ce cas là, l’option que je propose à ma collègue ne prend pas en considération tout le travail qu’elle a fournit pour animer cette journée. Aussi la stratégie que je propose n’est pas bientraitante pour elle. Peut-être aurais-je plutôt dû lui demander à quel endroit je pouvais faire quelque chose pour la soulager.
 
-Exemple : la galanterie. L'intention d'un homme "galant" est bienveillante (porter attention, protéger, prendre soin...) et en même temps maltraitante dans la mesure où elle peut alimenter l'idée que les femmes sont inférieures aux hommes en le mettant dans une position de pouvoir sous couvert d'une attitude protectrice. 
+Exemple : la galanterie. L'intention d'un homme galant est bienveillante (porter attention, protéger, prendre soin...) et en même temps maltraitante dans la mesure où elle peut alimenter l'idée que les femmes sont inférieures aux hommes en le mettant dans une position de pouvoir sous couvert d'une attitude protectrice. 
 
 Exemple en image : dans le film "Patients" à 9min, la relation patient/soigneur mise en scène, illustre bien ma vision du décalage qu'il peut y avoir entre bienveillance et bientraitance.
 
