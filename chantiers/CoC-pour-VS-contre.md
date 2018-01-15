@@ -9,7 +9,8 @@ Suite à la mise en place d'un premier CoC dans un évent, il y a eu plusieurs r
 - "Les comportements qui ne permettent pas cette intention: [...] - la drague, la séduction [...]" En quoi un flirt bilatéral pouvant amener à une belle histoire (ou pas) serait proscrit ? "- plaider pour ou encourager les comportements ci-dessus" Ah, ben je suis proscrit.
 - j’ai l’impression de m’adresser à ma fille quand je lui dis « ne t’habille pas, c’est interdit » pour qu’elle fasse le contraire. Je pense que ce code est construit sur la base de problèmes et non de solutions.
 -"celles et ceux qui sont sous-représenté·e·s à intégrer la communauté » Le soucis c’est qu’en faisait ça tu crées un groupe qui va se comporter comme tel et donc ça risque d’avoir l’effet inverse à celui recherché. Tu es dans la prophétie auto-réalisatrice : https://fr.wikipedia.org/wiki/Proph%C3%A9tie_autor%C3%A9alisatrice
-- y'a la loi pour s'en occuper au lieu de faire gérer ça à des bénévoles inexpérimentés : https://larlet.fr/david/stream/2018/01/12/
+- y'a la loi pour s'en occuper : https://larlet.fr/david/stream/2018/01/12/
+- les problèmes peuvent-ils réellement être gérés par des bénévoles inexpérimentés ?
 
 
 # Les arguments en faveur :
