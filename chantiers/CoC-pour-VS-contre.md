@@ -11,6 +11,7 @@ Suite à la mise en place d'un premier CoC dans un évent, il y a eu plusieurs r
 -"celles et ceux qui sont sous-représenté·e·s à intégrer la communauté » Le soucis c’est qu’en faisait ça tu crées un groupe qui va se comporter comme tel et donc ça risque d’avoir l’effet inverse à celui recherché. Tu es dans la prophétie auto-réalisatrice : https://fr.wikipedia.org/wiki/Proph%C3%A9tie_autor%C3%A9alisatrice
 - y'a la loi pour s'en occuper : https://larlet.fr/david/stream/2018/01/12/
 - les problèmes peuvent-ils réellement être gérés par des bénévoles inexpérimentés ?
+- Pour moi un CoC peut même être contre-productif. Tu peux te retrouver à ne PAS pouvoir sanctionner quelqu’un parce qu’il te demande de lui trouver dans le CoC où ce qu’il a fait est condamné…
 
 
 # Les arguments en faveur :
