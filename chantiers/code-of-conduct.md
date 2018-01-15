@@ -62,7 +62,7 @@ On tend a être un maximum inclusif et en même temps des fois si ça marche pas
 ## J’observe une situation oppressive
 - Je vérifie que c’était bien une situation mal vécue par la personne. M’assure qu’elle se sent bien / vérifie qu’elle se sent pas mal. - Si je me sens, lui demande si je peux faire quelque chose pour elle. Si oui, lui demander comment est-ce qu’elle souhaite gérer la situation. 
 
-## Comment l'équipe d'orga doit se positionner ? 
+## Inutile de mettre un CoC en place si l'équipe est pas préparée
 Mettre en place un CoC est pertinent que si l'équipe d'orga est préparée à le gérer : 
 Si j'annonce "Vous êtes légitime" et "vous serez pris au sérieux" je me dois de tout faire pour tenir ces engagements envers les participants. Il me semble que c'est important d'en prendre soin. Comment s'organiser, définir les rôles et choisir la posture en interne ? 
 - Qui se sent de gérer si une situation se présente / quelles sont les personnes ressources (équipe et hors équipe) ?
@@ -72,6 +72,10 @@ Si j'annonce "Vous êtes légitime" et "vous serez pris au sérieux" je me dois 
 - Qu'est-ce qu'on peut mettre en place pour que ce soit "facile" de venir nous voir pour en parler ?
 - Comment on se communique entre nous autour de ça tout en restant zen et discret ?
 - Comment faire pour que si ça arrive, cela n'impacte pas l'évènement ?
+
+## Vigilence de contexte 
+Le CoC vient des Etats-Unis, territoire dans lequel la liberté d'expression fonctionne différemment qu'en france. Là-bas il semblerait qu'on peut tout dire, la loi ne sanctionne pas les insultes (à préciser) et le langage oppressif. Les CoC ont été mis en place pour pallier à ça dans les évents. 
+En france c'est tout à fait différent puisque la loi intervient sur ce type de problématique. Est-ce donc pertinent de maintenir le titre de "Code of Conduct" ? 
 
 
 ## Autres réflexions 
