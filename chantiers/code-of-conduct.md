@@ -62,16 +62,32 @@ On tend a être un maximum inclusif et en même temps des fois si ça marche pas
 ## J’observe une situation oppressive
 - Je vérifie que c’était bien une situation mal vécue par la personne. M’assure qu’elle se sent bien / vérifie qu’elle se sent pas mal. - Si je me sens, lui demande si je peux faire quelque chose pour elle. Si oui, lui demander comment est-ce qu’elle souhaite gérer la situation. 
 
+## Comment l'équipe d'orga doit se positionner ? 
+Mettre en place un CoC est pertinent que si l'équipe d'orga est préparée à le gérer : 
+Si j'annonce "Vous êtes légitime" et "vous serez pris au sérieux" je me dois de tout faire pour tenir ces engagements envers les participants. Il me semble que c'est important d'en prendre soin. Comment s'organiser, définir les rôles et choisir la posture en interne ? 
+- Qui se sent de gérer si une situation se présente / quelles sont les personnes ressources (équipe et hors équipe) ?
+- Gestion : quelle posture ? Comment j'écoute ? Comment j'agis ?
+- Organisation : comment on se réparti les tâches si ça arrive ?
+- Comment on fait si je suis mal à l'aise avec la personne qui vient me voir ou son sujet ? Vers qui je la renvoie ? Comment ?
+- Qu'est-ce qu'on peut mettre en place pour que ce soit "facile" de venir nous voir pour en parler ?
+- Comment on se communique entre nous autour de ça tout en restant zen et discret ?
+- Comment faire pour que si ça arrive, cela n'impacte pas l'évènement ?
+
+
 ## Autres réflexions 
 Vigilence sur l’emploi des terme : donner des définitions
+Etre précis sans être infantilisant ?
+Comment rester smooth dans la formulation sans pour autant perdre en précision et en consistance ? 
+Un code of condut ne remplace pas la culture d'un évenement
+
 
 ## ressources inspirantes : 
-[https://lereset.org/charte.html]
-[http://www.writethedocs.org/code-of-conduct/]
-[http://agiletour-montpellier.fr/code-de-conduite/]
-[https://www.paris-web.fr/code-de-conduite.php/]
-[https://medium.com/@julia.barbelane/les-codes-de-conduite-dans-nos-events-f100bfed374b]
-
+[https://lereset.org/charte.html]  
+[http://www.writethedocs.org/code-of-conduct/]  
+[http://agiletour-montpellier.fr/code-de-conduite/]  
+[https://www.paris-web.fr/code-de-conduite.php/]  
+[https://medium.com/@julia.barbelane/les-codes-de-conduite-dans-nos-events-f100bfed374b]  
+[https://modelviewculture.com/pieces/a-code-of-conduct-is-not-enough]
 
 
 
