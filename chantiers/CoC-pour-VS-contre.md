@@ -9,8 +9,8 @@ Suite à la mise en place d'un premier CoC dans un évent, il y a eu plusieurs r
 - "Les comportements qui ne permettent pas cette intention: [...] - la drague, la séduction [...]" En quoi un flirt bilatéral pouvant amener à une belle histoire (ou pas) serait proscrit ? "- plaider pour ou encourager les comportements ci-dessus" Ah, ben je suis proscrit.
 - j’ai l’impression de m’adresser à ma fille quand je lui dis « ne t’habille pas, c’est interdit » pour qu’elle fasse le contraire. Je pense que ce code est construit sur la base de problèmes et non de solutions.
 -"celles et ceux qui sont sous-représenté·e·s à intégrer la communauté » Le soucis c’est qu’en faisait ça tu crées un groupe qui va se comporter comme tel et donc ça risque d’avoir l’effet inverse à celui recherché. Tu es dans la prophétie auto-réalisatrice : https://fr.wikipedia.org/wiki/Proph%C3%A9tie_autor%C3%A9alisatrice
-- y'a la loi pour s'en occuper : https://larlet.fr/david/stream/2018/01/12/
-- les problèmes peuvent-ils réellement être gérés par des bénévoles inexpérimentés ?
+- y'a la loi pour s'en occuper : https://larlet.fr/david/stream/2018/01/12/ : est-ce qu'on réinvente pas la roue ? 
+- les problèmes peuvent-ils réellement être gérés par des bénévoles inexpérimentés ? décisions dure à prendre, 
 - Pour moi un CoC peut même être contre-productif. Tu peux te retrouver à ne PAS pouvoir sanctionner quelqu’un parce qu’il te demande de lui trouver dans le CoC où ce qu’il a fait est condamné…
 
 
@@ -19,6 +19,7 @@ Suite à la mise en place d'un premier CoC dans un évent, il y a eu plusieurs r
 - Permet de rendre explicite ce qui devient implicite quand le cadre est bienveillant "de nature". CoC = bon véhicule en ce qui concerne tout·e nouveau·elle participant·e.
 - Principe de précaution "Malheureusement, ce n’est pas parce que vous n’avez pas eu d’incidents signalés que vous n’en n’aurez pas ou que vous n’en n’avez pas déjà eu." Ash Dryen
 - Les situations oppressives en envent sont des faits : le CoC est une première réponse (pas forcément la meilleure) pour "faire quelque chose". Première alternative au statut quo (https://fr.wikipedia.org/wiki/Statu_quo).
+- L'interpretation de la loi est maléable. C'est a cet endroit là que la dimension subtil (préjudice moral?) peut-être pris en compte. 
 
 Sur la question de la drague : "Si les intentions de ce guide ne sont pas claires et que vous avez pu pensé à un moment que nous souhaitions empêcher les gens de s'aimer, j'en suis navré."
 Vécu comme liberticide si on se met du point de vue d'un homme blanc qui a de bonnes intentions, mais protecteur si on se place du point de vue d'une femme au milieu d'un contexte masculin (dans le contexte actuel, nombreuses sont celles qui se font accoster/séduire/draguer régulièrement, un event est-il le contexte pour le faire ? Oui si c'est manié avec précaution et que le consentement est 100% garanti ? Comment s'assurer de ce consentement ? Et pourquoi ne pas plutôt initier un flirt bilatéral une fois la conférence terminée si on a un doute sur le consentement ?).
@@ -28,6 +29,10 @@ Vécu comme liberticide si on se met du point de vue d'un homme blanc qui a de b
 - Rédigé avec prudence (un minimum de "il faut" + privilégier le propositionnel dès que possible)
 - Pas d'injonction punitive en privilégiant le soin à la personne qui a vécu un truc inconfortable
 - Préciser l'intention "L'objectif de ces consignes et de créer un cadre protecteur et bienveillant évitant les situations oppressives. S'il est évident que le flirt est consenti et donc n'est pas oppressif, il n'entre absolument pas dans le champs de définition de ce guide."
+- rendre la co-création possible. le mettre sur GitHub + pour que ce soit légitime il faut qu'un certains pourcentage de la communauté y adhère avant qu'on l'adopte. 
+- ça pourrait être la communauté qui gèrerait la résolution
+- le problème peut être résolu ni dans le même temps, ni par la même équipe. 
+- le législatif ça prend du temps. loi peut-être pas
 
 
 # Question :  Pourquoi certain·e·s participant·e·s réagissent négativement au CoC ? 
