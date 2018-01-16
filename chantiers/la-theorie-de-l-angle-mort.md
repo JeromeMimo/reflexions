@@ -1,4 +1,6 @@
 Selon David de Bruant.
+
+Il arrive parfois que dans les interractions, certains sujets me par
 y'a des trucs qui sont dans l'angle mort de certains et pas d'autres. 
 invitation à tourner la tête pour changer de regard et faire en sorte que l'autre voit ce que l'on voit. 
 
