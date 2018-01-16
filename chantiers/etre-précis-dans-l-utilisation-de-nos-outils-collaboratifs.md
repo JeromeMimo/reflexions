@@ -1,4 +1,4 @@
-# Etre précis dans l'utilisation des outils collaboratifs
+# Etre précis dans l'utilisation de nouveaux outils
 
 ## Contexte 
 Dans mon processus d'exploration, je découvre de nouveaux outils et pratiques qui sont forces de proposition pour faire évoluer de nombreuses pratiques : 
@@ -18,7 +18,7 @@ Mais ce risque n'en ait plus un à partir du moment où celui ou celle qui utili
 1. Humble : OK avec l'idée qu'il·elle "ne sait pas" en fait
 2. Curieux·se : un élan pour aller chercher de nouvelle infos, se former
 3. Disponible : a du temps à consacrer pour se former et réfléchir
-4. Entouré·e d'une communauté de partiques qui peut lui apporter du feed-back et améliorer ses pratiques
+4. Entouré·e d'une communauté de pratiques qui peut lui apporter du feed-back et améliorer ses pratiques
 5. Avoir envie de s'améliorer
 
 
