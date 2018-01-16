@@ -29,3 +29,5 @@ Un endroit ou poser mes réflexions, travaux, articles, idées en cours...Histoi
 [les Code of conduct](https://github.com/Julia-barbelane/reflexions/blob/master/chantiers/code-of-conduct.md)  
 ["Celles et ceux qui savent font, celles et ceux qui comprennent enseignent"](https://github.com/Julia-barbelane/reflexions/blob/master/chantiers/ceux-qui-savent-font-ceux-qui-comprennent-enseignent.md)  
 [Créer un contexte de collaboration Safe](https://github.com/Julia-barbelane/reflexions/blob/master/chantiers/creer-un-cadre-de-collaboration-safe.md)
+[Etre précis·e·s dans l'utilisation de nouveaux outils](https://github.com/Julia-barbelane/reflexions/blob/master/chantiers/etre-pr%C3%A9cis-dans-l-utilisation-de-nos-outils-collaboratifs.md)  
+[Astuce pour sortir du statut quo et agir dans le sens de l'auto-régulation sociale - *avec David Bruant*](https://docs.google.com/document/d/14e2l6H2w-TiGlExbOjPkkr6BujGi5I-u2fs5HyF0VA8/edit)
