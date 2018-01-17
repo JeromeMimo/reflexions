@@ -31,6 +31,6 @@ Un endroit ou poser mes réflexions, travaux, articles, idées en cours...Histoi
 - ["Celles et ceux qui savent font, celles et ceux qui comprennent enseignent"](https://github.com/Julia-barbelane/reflexions/blob/master/chantiers/ceux-qui-savent-font-ceux-qui-comprennent-enseignent.md)  
 - [Etre précis·e·s dans l'utilisation de nouveaux outils](https://github.com/Julia-barbelane/reflexions/blob/master/chantiers/etre-pr%C3%A9cis-dans-l-utilisation-de-nos-outils-collaboratifs.md)  
 - [Astuce pour sortir du statut quo et agir dans le sens de l'auto-régulation sociale - *avec David Bruant*](https://docs.google.com/document/d/14e2l6H2w-TiGlExbOjPkkr6BujGi5I-u2fs5HyF0VA8/edit)  
-- [La théorie de l'angle-mort de David Bruant](https://github.com/Julia-barbelane/reflexions/blob/master/chantiers/la-theorie-de-l-angle-mort.md)  
-- [Et si le collaboratif dans un projet était le projet en lui-même](https://github.com/Julia-barbelane/reflexions/blob/master/chantiers/le-collaboratif-est-le-projet-lui-m%C3%AAme.md)  
+- [La théorie de l'angle-mort selon David Bruant](https://github.com/Julia-barbelane/reflexions/blob/master/chantiers/la-theorie-de-l-angle-mort.md)  
+- [Et si le collaboratif dans un projet était le projet en lui-même ?](https://github.com/Julia-barbelane/reflexions/blob/master/chantiers/le-collaboratif-est-le-projet-lui-m%C3%AAme.md)  
 - [Code Of Conduct : Pour VS Contre](https://github.com/Julia-barbelane/reflexions/blob/master/chantiers/CoC-pour-VS-contre.md)
