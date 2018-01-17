@@ -74,15 +74,17 @@ Si j'annonce "Vous êtes légitime" et "vous serez pris au sérieux" je me dois 
 - Comment faire pour que si ça arrive, cela n'impacte pas l'évènement ?
 
 ## Vigilence de contexte 
-Le CoC vient des Etats-Unis, territoire dans lequel la liberté d'expression fonctionne différemment qu'en france. Là-bas il semblerait qu'on peut tout dire, la loi ne sanctionne pas les insultes (à préciser) et le langage oppressif. Les CoC ont été mis en place pour pallier à ça dans les évents. 
-En france c'est tout à fait différent puisque la loi intervient sur ce type de problématique. Est-ce donc pertinent de maintenir le titre de "Code of Conduct" ? 
+Le CoC vient des Etats-Unis, territoire dans lequel la liberté d'expression fonctionne différemment qu'en france. Là-bas il semblerait qu'on peut tout dire, la loi ne sanctionne pas les insultes (à préciser) et le langage oppressif. Les CoC ont été mis en place pour pallier à ça dans les évents.   
+En france c'est tout à fait différent puisque la loi intervient sur ce type de problématique. **Est-ce donc pertinent de maintenir le titre de "Code of Conduct"** ? 
 
+## J'ai tenté de mettre en place un CoC dans un event qui n'en avait jamais eu. 
+Retours sur les réactions, réflexions et apprentissages : https://github.com/Julia-barbelane/reflexions/blob/master/chantiers/CoC-pour-VS-contre.md
 
 ## Autres réflexions 
-Vigilence sur l’emploi des terme : donner des définitions
-Etre précis sans être infantilisant ?
-Comment rester smooth dans la formulation sans pour autant perdre en précision et en consistance ? 
-Un code of condut ne remplace pas la culture d'un évenement
+Vigilence sur l’emploi des terme : donner des définitions  
+Etre précis sans être infantilisant ?  
+Comment rester smooth dans la formulation sans pour autant perdre en précision et en consistance ?   
+Un code of condut ne remplace pas la culture d'un évenement.  
 
 
 ## ressources inspirantes : 
