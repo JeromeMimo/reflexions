@@ -8,7 +8,7 @@ Deux postures se présentent alors à moi :
 
 Evidemment, je ne suis à l'aise avec aucune des deux. Et quand ça m'arrive, quelque soit la posture que je choisisse, je me sens pas super OK. 
 
-Et puis j'ai récemment discuté avec David de Bruant qui, suite à l'exposition d'une situation que j'avais vécu, m'a simplement dit "*Ah ben c'est normal, c'est que c'est dans son angle mort.".
+Et puis j'ai récemment discuté avec David de Bruant qui, suite à l'exposition d'une situation que j'avais vécu, m'a simplement dit "*Ah ben c'est normal, c'est que c'est dans son angle mort.*".
 
 Prise de conscience. Soulagement. Réconciliation. 
 
