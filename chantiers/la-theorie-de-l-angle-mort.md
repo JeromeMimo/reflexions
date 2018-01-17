@@ -12,8 +12,8 @@ Et puis j'ai récemment discuté avec David de Bruant qui, suite à l'exposition
 
 Prise de conscience. Soulagement. Réconciliation. 
 
-Cette petite phrase m'a permis de comprendre que certaines "évidences" ne sont pas perçues par l'autre car elles sont simplement "dans leur angle mort" mais pas dans mien ! Probablement parceque j'ai été amenée à porter mon attention dessus. De fait, je suis légitime de l'observer et de le relever puisqu'il s'agit de quelque chose que j'ai, en quelque sorte, déjà étudié.
+Cette petite phrase m'a permis de comprendre que certaines "évidences" ne sont pas perçues par l'autre car elles sont simplement "*dans leur angle mort*"... et pas dans le mien ! Probablement parceque j'ai été amenée, au cours de mes expériences, à porter mon attention dessus. De fait, je suis légitime de l'observer et de la relever puisqu'il s'agit de quelque chose que j'ai, en quelque sorte, déjà étudié.
 
-Cette petite phrase m'a permis d'apprendre que certaines "évidences" pour l'autre ne sont pas perçues par moi car elles sont simplement "dans mon angle mort" mais pas dans celui de l'autre ! Probablement parceque ce dernier a été amené à porter msn attention dessus. De fait, il est légitime de l'observer et de le relever puisqu'il s'agit de quelque chose qu'il a, en quelque sorte, déjà étudié. 
+Cette petite phrase m'a permis d'apprendre que je ne perçois pas certaines "évidences" de l'autre car elles sont simplement "*dans mon angle mort*" mais pas dans celui de l'autre ! Probablement parceque ce dernier a été amené à porter son attention dessus au cours des ses expériences. De fait, il·elle est légitime de l'observer et de le relever puisqu'il s'agit de quelque chose qu'il·elle a, en quelque sorte, déjà étudié. 
 
 Hummmmm. Un peu moins de jugement pour un peu plus de curiosité. 
