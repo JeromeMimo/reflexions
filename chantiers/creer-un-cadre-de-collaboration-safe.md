@@ -16,7 +16,7 @@ L'observation principale que je fais est qu'un contexte "safe" permet de pouvoir
 ## 1) Quelques trucs qui peuvent participer à la création d’un cadre Safe 
 
 **Parler au « Je »** Souvent ça me permet d’éviter un peu les jugements et de ne pas imposer mon point de vue.  
-Par exemple dire “*La discussion d'hier ne nous a servi à rien*.” n’évoque pas la même chose que “*J'ai l'impression que la discussion d'hier ne m'a rien qpportée.”. La première version implique l’ensemble des autres participants, mais qu’est-ce qui dit qu’elle n’a rien apportée à Jacqueline ou Loric ?  
+Par exemple dire “*La discussion d'hier ne nous a servi à rien*.” n’évoque pas la même chose que “*J'ai l'impression que la discussion d'hier ne m'a rien apportée.”. La première version implique l’ensemble des autres participants, mais qu’est-ce qui dit qu’elle n’a rien apportée à Jacqueline ou Loric ?  
 Aussi, faire l'effort de parler au “Je” est une belle invitation à prendre ses “responsabilités”. C’est plus impliquant, je suis donc généralement plus précautionneuse : je prends le temps de vérifier ce qui se passe pour moi et je fais plus attention aux mots que j’emploie.
 
 **Utiliser le langage inclusif** 
@@ -77,7 +77,7 @@ Au lieu de ça, je tente d'adopter un posture d'écoute empathique, qui (assez g
 
 # "Oh lala tu compliques tout !"
 Voilà un retour récurrent quand je parle de cette exploration. Nombreu.se.s.x sont celles et ceux qui jugent cette posture compliquée à mettre en oeuvre, liberticide ou non-authentique.  
-Je comprends, sauf que j'ai choisi de le voir comme our moi un apprentissage.  
+Je comprends, sauf que j'ai choisi de le voir comme un apprentissage.  
 Prenons l'exemple de l'éducation : il y a moins de 100 ans, si un enfants désobissait, il prenait une tarte et on l'enfermait dans sa chambre. C'était simple, efficace et pas trop contraignant pour les parents. Mais un peu pauvre pour l'enfant non ? D'ailleurs, aujourd'hui, cette posture éducative est bien moins répandue. Les parents, tentent désormais d'apprendre à faire mieux : expliquer, comprendre, saisir ce qui se passe pour l'enfant, trouver des solutions pour que ça ne se reproduise pas... dans l'idée d'améliorer leur relation avec leurs enfants.
 
 Pour moi, l'enjeux de créer un cadre de collaboration Safe est le même. Et réinterroger nos pratiques, prendre le temps de s'ajuster, d'observer et de prendre soin de l'autre ben ça s'apprend ! Et comme n'importe quel apprentissage, ça me demander du temps et de l'énergie. 
