@@ -13,3 +13,7 @@ Créer un contexte d’apprentissage plutôt que de transmettre.
 -	Créer un contexte d’apprentissage. Posture holistique : on sort de l’apprentissage unique de la matière mais on participe à créer un Safe (confiance, bienveillance, soutien, méthode d’animation…) dans lequel des compétences variées sont réellement complémentaires.
 -	Celui qui ne maîtrise absolument pas le sujet peut aller rencontrer les « apprenants » en leur demandant de réexpliquer. 
 
+"Ceux qui savent faire font, ceux qui ne savent pas faire enseignent,
+ceux qui ne savent pas enseigner enseignent aux enseignants et ceux qui
+ne savent pas enseigner aux enseignants font de la politique.
+QQ Citations - https://qqcitations.com/citation/179097
