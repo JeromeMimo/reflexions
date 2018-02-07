@@ -5,7 +5,7 @@
 ## Contexte
 J'ai lu cet article ["Pourquoi il est urgent de réinventer les événements tech !"](https://medium.com/futuresfestivals/r%C3%A9inventons-les-%C3%A9v%C3%A9nements-b5138da7adad) de Camille Pène. J'ai cogité. J'ai croisé tout ça avec mes propres expériences. Résultat : j'ai listé les quelques trucs que je tente de faire et/ou que j'observe et qui me parlent... 
 
-Cher lecteur, si tu as l'élan et/ou l'inspiration, tu es grandement invité à contribuer. Je suis curieuse !!
+Cher·e lecteur·rice, si tu as l'élan et/ou l'inspiration, tu es grandement invité·e à contribuer. Je suis curieuse !!
 
 ### S'appuyer sur les valeurs à défendre
 - Poser des intentions claires et concrètes qui vont guider l'élaboration de l'évent
