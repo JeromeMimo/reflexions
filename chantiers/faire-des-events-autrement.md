@@ -15,7 +15,7 @@ Cher·e lecteur·rice, si tu as l'élan et/ou l'inspiration, tu es grandement in
 - Clarifier, s'aligner sur des valeurs et décider à partir de ces valeurs
 
 ### Sortir des posture hautes
-- Privilégier les Retours d'EXpérience [Sudweb]
+- Privilégier les Retours d'EXpérience 
 - Eviter les "grands experts" et privilégier des personnes peu connues mais qui ont plein de choses à dire
 - Inventer de nouveaux formats qui nous font descendre de la scène : ateliers, théâtre forum, ballades, forum ouverts...
 
