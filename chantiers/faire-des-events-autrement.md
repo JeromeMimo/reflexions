@@ -1,9 +1,12 @@
-# Réinventer les events ? 
-
+# Faire des events autrement ? 
 ![réinventer les évents ?](https://github.com/Julia-barbelane/reflexions/blob/master/photos/reinventer-les-events.png)
 
 ## Contexte
-J'ai lu cet article ["Pourquoi il est urgent de réinventer les événements tech !"](https://medium.com/futuresfestivals/r%C3%A9inventons-les-%C3%A9v%C3%A9nements-b5138da7adad) de Camille Pène. J'ai cogité. J'ai croisé tout ça avec mes propres expériences. Résultat : j'ai listé les quelques trucs que je tente de faire et/ou que j'observe et qui me parlent... 
+J'ai lu cet article ["Pourquoi il est urgent de réinventer les événements tech !"](https://medium.com/futuresfestivals/r%C3%A9inventons-les-%C3%A9v%C3%A9nements-b5138da7adad) de Camille Pène. J'ai cogité. C'est surtout l'idée de "réinventer" qui m'a parlé. Faire autrement.   
+
+Depuis 2 ans j'explore les pistes du "faire autrement" : parfois parceque c'est un moyen de faire les choses plus en accord avec mes valeurs, parfois par une gourmandise prononcée pour l'expérimentation et l'apprentissage. 
+
+Du coup j'ai décidé de lister les quelques trucs (que je tente de faire et/ou que j'observe et qui me parlent...) qui permettraient peut-être de "faire autrement", ce qui ne signifie pas forcément mieux ou pire...
 
 Cher·e lecteur·rice, si tu as l'élan et/ou l'inspiration, tu es grandement invité·e à contribuer. Je suis curieuse !!
 
