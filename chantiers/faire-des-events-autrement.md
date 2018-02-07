@@ -25,6 +25,7 @@ Cher·e lecteur·rice, si tu as l'élan et/ou l'inspiration, tu es grandement in
 - Co-organiser l'évent avec la communauté (ouvrir les appels à orateurs et faire en sorte que ce soient les participant·e·s qui votent, co-créer les Code of Conduct via des outils collaboratifs...) les organisateur·rice·s seraient alors plus des coordinateur·rice·s/facilitateur·rice·s et des petites mains que des décideur·se·s.
 - faire appel à la communauté tout au long de la mise en place de l'évent pour récolter des feed-back réguliers
 
+
 ### Créer une équipe d'orga 
 L'équipe créé est garante de la culture et de l'énergie qu'il y aura dans l'évent. Si elle fonctionne bien, il y a de grandes chances que l'évent aussi. 
 - Consacrer du temps à l'alignement des membres de l'équipe
@@ -49,7 +50,8 @@ L'équipe créé est garante de la culture et de l'énergie qu'il y aura dans l'
 - Proposer des tarifs abordables et/ou des possibilités d'achat solidaires et/ou des tickets de diversité
 
 ## Conclusion
-Finalement, organiser un évent, n'est-ce pas aussi l'occasion de créer, le temps d'un week-end un îlot d'un idéal culturel ?
+Finalement, organiser un évent, n'est-ce pas aussi l'occasion de créer, le temps d'un week-end un îlot d'un idéal culturel ? Imaginons un peu des events où la culture prévaut sur le contenu. Le produit ne serait plus alors les conférences et les ateliers mais l'expérience humaine... 
 
-*Comme d'habitude, je suis pas toute seule : Camille Pène, Boris Schapira, la thym de Sudweb, La bande des Girafes - CNV poils aux pieds, Raphaël Pierquin, Stéphane Langlois.*
+
+*Comme d'habitude, je suis pas toute seule : Camille Pène, Boris Schapira, la thym de Sudweb, Thomas Gasc, La bande des Girafes - CNV poils aux pieds, Raphaël Pierquin, Stéphane Langlois.*
 
