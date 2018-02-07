@@ -46,5 +46,5 @@ L'équipe créé et est garante de la culture et de l'énergie qu'il y aura dans
 ## Conclusion
 Finalement, organiser un évent, n'est-ce pas aussi l'occasion de créer, le temps d'un week-end un îlot d'un idéal culturel ?
 
-*Comme d'habitude, je suis pas toute seule : Camille Pène, Boris Schapira, la thym de Sudweb, La bande des Girafes - CNV poils aux pieds, Raphaël Pierquin, Stéphane Langlois.
+*Comme d'habitude, je suis pas toute seule : Camille Pène, Boris Schapira, la thym de Sudweb, La bande des Girafes - CNV poils aux pieds, Raphaël Pierquin, Stéphane Langlois.*
 
