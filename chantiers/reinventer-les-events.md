@@ -3,15 +3,9 @@
 ## Contexte
 J'ai lu cet article ["Pourquoi il est urgent de réinventer les événements tech !](https://medium.com/futuresfestivals/r%C3%A9inventons-les-%C3%A9v%C3%A9nements-b5138da7adad) de Camille Pène. J'ai cogité. J'ai croisé tout ça avec mes propres expériences. Résultats : quelques pistes pour imaginer d'autres choses ? 
 
-### Créer du sens
+### S'appuyer sur les valeurs à défendre
 - Poser des intentions claires et concrètes qui vont guider l'élaboration de l'évent
 - Clarifier, s'aligner sur des valeurs et décider à partir de ces valeurs
-
-### Créer une équipe d'orga : 
-L'équipe créé et est garante de la culture et de l'énergie qu'il y aura dans l'event. Si elle fonctionne bien, il y a de grande chance que l'évent aussi. 
-- Consacrer du temps à l'alignement des membres de l'équipe
-- Prendre le temps de créer une culture commune qui permet de solidifier le socle que représente une équipe d'organisation
-- Communiquer pour rester aligné·e·s tout au long du processus de création
 
 ### Sortir des posture hautes
 - Privilégier les Retours d'EXpérience [Sudweb]
@@ -23,6 +17,12 @@ L'équipe créé et est garante de la culture et de l'énergie qu'il y aura dans
 - Utiliser des outils tels que le Forum Ouvert
 - Co-organiser l'évent avec la communauté (ouvrir les appels à orateurs et faire en sorte que ce soient les gens qui votent, co-créer les Code of Conduct...) les organisateurs seraient alors plus des coordinateurs/facilitateurs et des petites mains que des décideurs.
 - faire appel à la communauté tout au long de la mise en place de l'évent pour récolter des feed-back
+
+### Créer une équipe d'orga 
+L'équipe créé et est garante de la culture et de l'énergie qu'il y aura dans l'event. Si elle fonctionne bien, il y a de grande chance que l'évent aussi. 
+- Consacrer du temps à l'alignement des membres de l'équipe
+- Prendre le temps de créer une culture commune qui permet de solidifier le socle que représente une équipe d'organisation
+- Communiquer pour rester aligné·e·s tout au long du processus de création
 
 ### Créer du mouvement
 - ne pas reproduire la même recette tous les ans et créer à minima une modifications, un changement
@@ -42,4 +42,7 @@ L'équipe créé et est garante de la culture et de l'énergie qu'il y aura dans
 - Proposer des tarifs abordables et/ou des possibilités d'achat solidaires et/ou des tickets de diversité
 
 ## Conclusion
-Fianlement, organiser un évent, n'est-ce pas aussi l'occasion de créer, le temps d'un week-end un îlot d'un idéal culturel ?
+Finalement, organiser un évent, n'est-ce pas aussi l'occasion de créer, le temps d'un week-end un îlot d'un idéal culturel ?
+
+*Comme d'habitude, je suis pas toute seule : Camille Pène, Boris Schapira, la thym de Sudweb, La bande des Girafes - CNV poils aux pieds, Raphaël Pierquin, Stéphane Langlois.
+
