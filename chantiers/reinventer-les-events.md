@@ -1,11 +1,9 @@
 # Réinventer les events ? 
 
-![réinventer les évents ?](https://github.com/Julia-barbelane/reflexions/blob/master/photos/reinventer-les-events.png
+![réinventer les évents ?](https://github.com/Julia-barbelane/reflexions/blob/master/photos/reinventer-les-events.png)
 
 ## Contexte
 J'ai lu cet article ["Pourquoi il est urgent de réinventer les événements tech !](https://medium.com/futuresfestivals/r%C3%A9inventons-les-%C3%A9v%C3%A9nements-b5138da7adad) de Camille Pène. J'ai cogité. J'ai croisé tout ça avec mes propres expériences. Résultats : quelques pistes pour imaginer d'autres choses ? 
-
-
 
 ### S'appuyer sur les valeurs à défendre
 - Poser des intentions claires et concrètes qui vont guider l'élaboration de l'évent
