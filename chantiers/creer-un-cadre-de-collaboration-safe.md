@@ -73,14 +73,14 @@ Peut-être dans ce cas, j’aurais plutôt tendance à proposer une deuxième fo
 - Eviter, changer de sujet pour ne pas avoir à écouter ou parler
 - Parler de moi et rebondir sur ce que la personne est en train de dire pour parler de moi
 
-Au lieu de ça, je tente d'adopter un posture d'écoute empathique, qui (assez grossièrement) consiste à se taire pour écouter "vraiment" ou tout au plus reformuler ce que l'autre dit pour lui "faire écho". Dans cette posture je n'écoute pas pour répondre mais pour comprendre et je me rapproche du [dialogue plus que de la discussion](http://www.thomasw.fr/posts/dialogue.html)...
+Au lieu de ça, je tente d'adopter une posture d'écoute empathique, qui (assez grossièrement) consiste à se taire pour écouter "vraiment" ou tout au plus reformuler ce que l'autre dit pour lui "faire écho". Dans cette posture je n'écoute pas pour répondre mais pour comprendre et je me rapproche du [dialogue plus que de la discussion](http://www.thomasw.fr/posts/dialogue.html)...
 
 # "Oh lala tu compliques tout !"
 Voilà un retour récurrent quand je parle de cette exploration. Nombreu.se.s.x sont celles et ceux qui jugent cette posture compliquée à mettre en oeuvre, liberticide ou non-authentique.  
 Je comprends, sauf que j'ai choisi de le voir comme un apprentissage.  
 Prenons l'exemple de l'éducation : il y a moins de 100 ans, si un enfants désobissait, il prenait une tarte et on l'enfermait dans sa chambre. C'était simple, efficace et pas trop contraignant pour les parents. Mais un peu pauvre pour l'enfant non ? D'ailleurs, aujourd'hui, cette posture éducative est bien moins répandue. Les parents, tentent désormais d'apprendre à faire mieux : expliquer, comprendre, saisir ce qui se passe pour l'enfant, trouver des solutions pour que ça ne se reproduise pas... dans l'idée d'améliorer leur relation avec leurs enfants.
 
-Pour moi, l'enjeux de créer un cadre de collaboration Safe est le même. Et réinterroger nos pratiques, prendre le temps de s'ajuster, d'observer et de prendre soin de l'autre ben ça s'apprend ! Et comme n'importe quel apprentissage, ça me demander du temps et de l'énergie. 
+Pour moi, l'enjeux de créer un cadre de collaboration Safe est le même. Et réinterroger nos pratiques, prendre le temps de s'ajuster, d'observer et de prendre soin de l'autre ben ça s'apprend ! Et comme n'importe quel apprentissage, ça me demande du temps et de l'énergie. 
 
 
 *Un grand "Merci !" à toutes les personnes qui (de près où de loin) m'ont partagé leurs billes (et/ou m'ont offert de magnifiques feed-back) ce qui a largement contribué atayer ma pensée et pondre ces quelques lignes : Isabelle Desplat, Stéphane Langlois, Maïtané Lenoir, Antoine Vernois, Aude Lorriaux, Fabrice Aimetti, Thomas Wolff, Ashe Dryden, David de Bruant, Erick Gardin, Pauline Bendjebbar, Magali Toulouse, Lucas Fristchi, la Thym de SudWeb 2017, Brasiers et Cerisiers...*
