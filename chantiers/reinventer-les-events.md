@@ -1,19 +1,20 @@
 # Réinventer les events ? 
 
 ## Contexte
-J'ai lu cet article ["Pourquoi il est urgent de réinventer les événements tech !](https://medium.com/futuresfestivals/r%C3%A9inventons-les-%C3%A9v%C3%A9nements-b5138da7adad) de Camille Pène. J'ai cogité et croisé mes 
+J'ai lu cet article ["Pourquoi il est urgent de réinventer les événements tech !](https://medium.com/futuresfestivals/r%C3%A9inventons-les-%C3%A9v%C3%A9nements-b5138da7adad) de Camille Pène. J'ai cogité. J'ai croisé tout ça avec mes propres expériences. Résultats : quelques pistes pour imaginer d'autres choses ? 
 
 ### Créer du sens
-- Poser des intentions claires et concrètes
+- Poser des intentions claires et concrètes qui vont guider l'élaboration de l'évent
 - Clarifier, s'aligner sur des valeurs et décider à partir de ces valeurs
 
-### Créer une équipe d'orga : l'équipe créé et est garante de la culture et de l'énergie qu'il y aura dans l'event. Si elle fonctionne bien, il y a de grande chance que l'évent aussi. 
-- Consacrer du temps à l'alignement des membre
+### Créer une équipe d'orga : 
+L'équipe créé et est garante de la culture et de l'énergie qu'il y aura dans l'event. Si elle fonctionne bien, il y a de grande chance que l'évent aussi. 
+- Consacrer du temps à l'alignement des membres de l'équipe
 - Prendre le temps de créer une culture commune qui permet de solidifier le socle que représente une équipe d'organisation
 - Communiquer pour rester aligné·e·s tout au long du processus de création
 
 ### Sortir des posture hautes
-- Privilégier les Retours d'expérience [Sudweb](https://sudweb.fr/2018/)
+- Privilégier les Retours d'EXpérience [Sudweb]
 - Eviter les "grands experts" et privilégier des personnes peu connues mais qui ont plein de choses à dire
 - Inventer de nouveaux formats qui nous font descendre de la scène : ateliers, théâtre forum, ballades, forum ouverts...
 
